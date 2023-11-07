@@ -1,0 +1,21 @@
+Tipos de Redes
+
+-Por el alcance
+    Esto en si idica el alcance o cuanto abarca la red en si
+    Wan
+    Lan
+    Pan
+
+-Por su topologia
+    En si esto indica, el como se ordena gerquicamente y como se se ordena/conecta
+    -Malla 
+    -Estrella
+    -Arbol
+    -bus
+-Relacion Funcional
+    Cliente servidor 
+    Peert to pe
+
+-Por material/...
+    Cable coxial
+    Inalambrica
